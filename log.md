@@ -1,4 +1,4 @@
-# 100 Days Of Code at the School of Code
+# Alia's log of 100 Days Of Code at the School of Code
 
 
 Day 1: September 26, 2022 <br />
