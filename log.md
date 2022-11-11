@@ -5,12 +5,12 @@ Day 1: September 26, 2022 <br />
 ⭐	**Basic CSS and HTML** 
 - Familiarizing with computational thinking and SOC ways of solving problem. <br />
 - Understanding the problem, breaking down into parts, and write an algorithm before attempting to solve the problem.
-
+<br />	
 
 Day 2: September 27, 2022 <br />
 ⭐ **Git** 
 - familiarizing with Bash terminal, pwd, ls, git init, git add ., git commit -m, git clone, git push, git pull <br />				
-
+<br />	
 
 Day 3: September 28, 2022	<br />
 ⭐ **Intro to JavaScript, Basic JS syntax** <br />
