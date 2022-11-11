@@ -24,7 +24,8 @@ Day 4: September 29, 2022 <br />
 <br />	
 
 Day 5: September 30, 2022 <br />
-⭐⭐ **Friday Hackaton 1** - creating a Rock, Paper, Scissors game  utilizing JavaScript functions, prompt, while loop and if statement. 
+⭐⭐ **Friday Hackaton 1** 
+- creating a Rock, Paper, Scissors game  utilizing JavaScript functions, prompt, while loop and if statement. 
 <br />	
 
 Day 6:	October 1, 2022	<br />
@@ -81,9 +82,11 @@ Day 14:	October 11, 2022			<br />
 Day 15:	October 12, 2022			<br />
 ⭐ creating a wireframe of low and high fidelity prototype using figma
 <br />	
+<br />	
 
 Day 16:	October 13, 2022			<br />
 ⭐ UI/UX	implementation, user interview
+<br />	
 <br />	
 
 Day 17:	October 14, 2022			<br />
