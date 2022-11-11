@@ -15,7 +15,7 @@ Day 2: September 27, 2022 <br />
 Day 3: September 28, 2022	<br />
 ⭐ **Intro to JavaScript, Basic JS syntax** <br />
 - JS functions, Logical Operator, Variables, assigning, reassigning and update variables, JS types (number, string, function, etc), loops (while loop, for loop), if statement.
-
+<br />	
 
 Day 4: September 29, 2022 <br />
 ⭐ **JS array, JS object** <br />
