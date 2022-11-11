@@ -2,7 +2,7 @@
 
 
 Day 1: September 26, 2022 <br />
-⭐	**Basic CSS and HTML** <br />
+⭐	**Basic CSS and HTML** 
 - Familiarizing with computational thinking and SOC ways of solving problem. <br />
 - Understanding the problem, breaking down into parts, and write an algorithm before attempting to solve the problem.
 
