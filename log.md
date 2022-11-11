@@ -129,6 +129,70 @@ Day 26:	October 27, 2022	<br />
 💬 Using parametrized queries with the query method to help protect against SQL injection. <br />
 💬 Using Postman app to test the API. 
 
+Day 27	October 28, 2022	<br />
+⭐⭐⭐ **Friday Hackathon 5** <br />
+💬 Built a basic full stack wardrobe API, consisting of creating a cloud postgreSQL database, and setting up a NodeJs backend express server that connects securely to the cloud database and serving a basic frontend website.  
+💬 The server can send queries to the database for CRUD requests in REST architecture.
+
+Day 28	October 31, 2022	<br />
+⭐	**Jest test, unit testing**  <br />
+💬 Learned basic concepts of code testing and different types of tests, ie: unit test, integration test, and end-to-end test. 
+💬 written an isolated unit test for a simple predictable function using Jest global functions  test() and expect()
+
+Day 29	November 1, 2022	<br />
+⭐	**Cypress, Test-Driven Development (TDD)** <br />
+- learned abput Test-Driven Development, and the three stages in TDD: red, green, and refactor
+- written basic functional tests, and experimented with different Jest test matchers. 
+- learned abput end-to-end testing using Cypress testing tool
+
+Day 30	November 2, 2022	<br />
+⭐	**End-to-end test, Integration test, Jest, and supertest**	<br />
+- set up tests for each element in a web app using Cypress.
+- set up API endpoint testing using Jest and supertest, both are Node third party packages.
+
+Day 31	November 3, 2022	<br />
+⭐	**Integration test, Jest, and supertest** <br />
+- performed integration testing which checks the communication between an express server and a PostgreSQL cloud databse. 
+- utilizing supertest to send CRUD requests to the server in an async function.
+- and utilizing jest to test each helper function that sends the corresponding SQL queries to the databse.
+- learned about noSQL databse.
+
+Day 32	November 4, 2022	<br />
+⭐⭐⭐ **Friday Hackathon 6** <br />
+- performed a comprehensive test of an express API server system involving unit test, integration test, and end-to end test in test-driven development framework
+- wrote test scripts in Cypress to inspect the functionalities of each element on the frnot end web app.
+- set up a jest test script to test each helper function in the server model. 
+- and utilize supertest to connect to the API endpoints in the test environment.
+- presented the analysis of the test ouotcome to the team.
+
+Day 33	November 14, 2022	<br />
+⭐	**React.js	JSX, JavaScript**	<br />
+- learned about React, virtual DOM, and having a single source of truth to keep a web app efficiently in sync with changes.
+- creating reusable React components to build a front end UI
+- using props to pass in customized functionalities to the components. 
+- rendering the components and its children at the root element of the React DOM.
+- using Javascript XML (JSX) to write HTML in React.  
+
+Day 34	November 8, 2022	<br />
+⭐	**React.js,array methods,	JSX, babel**	 <br />
+- learned about immutable array methods. 
+- learned about destructuring arrays and aobjects 
+- adding a button component with functionality in React. 
+- set up a React app using create react app package installed from node package manager.  
+- building React component tree and architecture 
+
+Day 35	November 9, 2022	<br />
+⭐	**React hooks, React.js, JSX**	 <br />
+- learned about smart and dump compnents in React
+- use React state hook to define and update a state in memory.
+- Lifting the state and placing state management to the lowest common parent of the components. 
+- passing the state and mechanism for updating the state into the component, from parent to children, as props. 
+
+Day 36	November 10, 2022	 <br />
+⭐	**React.js,	JSX**	 <br />
+- manipulating array and objects immutably using spread and other immutable array methods. 
+- rendering list and keys with react, and using .map() method to render unlimited amount of components based on the corresponding list received from the databse. 
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
